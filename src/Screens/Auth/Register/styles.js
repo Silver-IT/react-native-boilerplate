@@ -15,4 +15,7 @@ export default StyleSheet.create({
         marginTop: 10,
         borderRadius: 5,
     },
+    imageBackground: {
+        flex: 1,
+    }
 });
